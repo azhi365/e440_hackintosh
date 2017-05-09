@@ -2,7 +2,7 @@ Thinkpad E440 Hackintosh Files
 ===
 OS X 10.12
 
-1. 按教程安装可以顺利进行UniBeast_ Install macOS Sierra on Any Supported Intel-based PC _ tonymacx86.com
+1. 按https://www.tonymacx86.com/threads/unibeast-install-macos-sierra-on-any-supported-intel-based-pc.200564/教程安装可以顺利进行UniBeast_ Install macOS Sierra on Any Supported Intel-based PC _ tonymacx86.com
 2. MultiBeast 中的 
   - qiuck start选  UEFI Boot Mode
   - Drives 中Misc选 FakeSMC.kext
